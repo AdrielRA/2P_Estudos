@@ -1,0 +1,26 @@
+ï»¿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_da_Velha", "Jogo_da_Velha\Jogo_da_Velha.csproj", "{E63EB502-F949-453C-B718-60A734786DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63EB502-F949-453C-B718-60A734786DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63EB502-F949-453C-B718-60A734786DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63EB502-F949-453C-B718-60A734786DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63EB502-F949-453C-B718-60A734786DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89B4686-E660-40D4-9587-C9611744A5C6}
+	EndGlobalSection
+EndGlobal
+¡ NÎZÙ‚PþL„“èÚCU s·R&Ýñ‚‡Áâ['2Ï²Ê†ÕY>îNÒA,ô‡ÅÉ=¨±¡Äè«{D:ìm‘Æ°à‘õqŸ÷ÉÖ£ú€~7ˆÆc«dÅÆ®º2÷³GY?úeLÂÀ)Ë]/l—Ôa/ÛƒTLDã;qX„¿Özúp{KÊž¾Ìð÷ßv¼Lžß.kùoråûÕÝ¯bRGy-Jêýf~…ŽÛ¾™ÆKÈÐ0	¶ìú'Zá-sK#˜NžÅáxyË÷5Ë±Ó­ÝàÄ+VVgÁ.1á]3ç%?÷¼”ð›^Iç^¯_U»Y	ƒ¦ˆü¦i–¹Ú¤‘Ó±[¾Þ_7r5¿(‚sÒ'}JÿŸŒƒÐe©Þ_Í €y£ÂvS_¾ìª(\4:âÀØ†]–¹mN˜Pðu\XuX8ÐpúGÎ›³Ò°CŠo2]0î¦zcÜH…ü~KÉ•|›5˜ôZ0Á¢_YëKw4<¥æŽ/—y¹" Å©wGä÷
